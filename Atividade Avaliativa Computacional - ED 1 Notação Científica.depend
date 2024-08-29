@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724936874 source:c:\users\gabriel-pc\desktop\atividade avaliativa computacional - ed 1 notação científica\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
